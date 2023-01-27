@@ -1,0 +1,110 @@
+*{
+ margin: 0;
+ padding: 0;
+ box-sizing: content-box;
+}
+.logo{
+  height: 50px;
+  width: 100px;
+  padding-left: 30px;
+}
+.ParantBlock{
+  display: flex;
+  margin: 10rem;
+  flex-direction:row;
+  position: relative;
+}
+.block{
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  
+}
+
+
+.footer{
+  background-color: rgb(72, 128, 109);
+}
+
+.footer-image{
+  width: 100px;
+  height: 70px;
+  margin-top: 10px;
+  
+}
+.listItems{
+  display: flex;
+  flex-direction: row;
+  font-weight: 500;
+  margin-top: 1rem;
+  
+ 
+}
+.firstList{
+  color: rgb(253, 251, 251);
+  text-decoration: none;
+}
+.remainingtList{
+  color: rgb(249, 245, 245);
+  text-decoration: none;
+  margin-left: 25px;
+}
+.no-dots {
+  list-style-type: none;
+}
+.footer-para{
+  margin-left: 60px;
+  color: #ffff;
+}
+.listItems{
+    display: flex;
+    flex-direction: row;
+    font-weight: 500;
+}
+.img1{
+    height: 175vh;
+    width: 450px;
+    margin-top: 30px;
+    margin-left: 80px;
+}
+.strike-img{
+    margin-top: 40px;
+    height: 100px;
+    width: 80px;
+}
+.line-image{
+    width: 100%;
+}
+.second-page-description{
+    margin-top: 150px;
+}
+.second-page-heading{
+    font-size: 30px;
+    font-weight: 400;
+    margin-left: 25px;
+}
+.second-page-paragraph{
+    font-size: 13px;
+    margin-left: 25px;
+}
+.house-img{
+    height: 180px;
+    width: 240px;
+    margin-left: 80%;
+    overflow: hidden;
+}
+.heading-p3{
+  justify-content: center;
+  text-align: center;
+  
+}
+.multi-card-image{
+  height: 500px;
+  width: 500px;
+  margin-top: 30px;
+  margin-left: 80px;
+}
+.Good-day{
+  justify-content: center;
+  text-align: center;
+}
